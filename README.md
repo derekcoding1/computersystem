@@ -1,5 +1,4 @@
 # computersystem
-# computersystem
 
 Question 1: What is the default block size on HDFS? What is the default replication factor of HDFS on Dataproc?
 Answer 1: 128MB, 2
